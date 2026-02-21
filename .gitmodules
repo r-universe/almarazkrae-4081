@@ -5,6 +5,9 @@
 [submodule "DegreeDayCalc"]
 	path = DegreeDayCalc
 	url = https://github.com/almarazkrae-4081/degreedaycalc
+[submodule "LifeTableBuilder"]
+	path = LifeTableBuilder
+	url = https://github.com/cran/LifeTableBuilder
 [submodule "LifeTableFertility"]
 	path = LifeTableFertility
 	url = https://github.com/almarazkrae-4081/lifetablefertility
